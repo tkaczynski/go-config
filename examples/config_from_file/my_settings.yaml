@@ -1,0 +1,4 @@
+MyApp:
+    MySettingBool: true
+    MySettingInt: 123
+    MySettingStr: "one-two-three"
